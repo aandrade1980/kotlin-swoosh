@@ -1,4 +1,4 @@
-package alvus.com.swoosh
+package alvus.com.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,5 +1,6 @@
-package alvus.com.swoosh
+package alvus.com.swoosh.Controller
 
+import alvus.com.swoosh.R
 import android.content.Intent
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_welcome.*
